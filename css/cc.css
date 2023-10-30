@@ -1,7 +1,7 @@
-html {
+/* html {
     scroll-behavior: smooth;
   }
-  
+   */
 
 .cc-margin-right-m{
     margin-right: 10px;
@@ -54,7 +54,7 @@ html {
 .cc-logo-inline {
     height: 40px;
     width: auto;
-    padding: 0 15px 25px 0;
+    margin: 0 15px 25px 0;
 }
 
 .cc-logo-inline-lower {
