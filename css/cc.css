@@ -97,7 +97,12 @@ html {
     object-fit: contain;
 }
    
-
+.cc-logo-inline {
+    height: 40px;
+    width: auto;
+    padding: 0 25px 15px 25px;
+    transform:translateY(10px)
+}
 
 /* --------------- */
 
