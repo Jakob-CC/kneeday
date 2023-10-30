@@ -44,9 +44,23 @@ html {
 } 
 
 .cc-sponsor-grade {
-    margin-left: 70px;
+    width: 100%;
+    text-align: center;
+    padding-right: 15px;
     margin-bottom: 10px;
 } 
+
+  
+.cc-logo-inline {
+    height: 40px;
+    width: auto;
+    padding: 0 15px 25px 0;
+}
+
+.cc-logo-inline-lower {
+    transform:translateY(10px);
+
+}
 
 .cc-topic {
     padding-top: 15px;
@@ -96,13 +110,7 @@ html {
     height: auto;
     object-fit: contain;
 }
-   
-.cc-logo-inline {
-    height: 40px;
-    width: auto;
-    padding: 0 25px 15px 25px;
-    transform:translateY(10px)
-}
+ 
 
 /* --------------- */
 
